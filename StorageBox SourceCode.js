@@ -17,8 +17,6 @@ var allitemdata=0;
 var maxinvcount=0;
 var count=0;
 var count2=0;
-var ctx=com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
-var sdcard=android.os.Environment.getExternalStorageDirectory();
 var selectslot=null;
 var chestbutton=null;
 var font;
