@@ -1,4 +1,3 @@
-var versionname="1.2.0";
 var invco=[];
 var boxdata=[];
 var boxdatasub={};
